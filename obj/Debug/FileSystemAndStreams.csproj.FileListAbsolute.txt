@@ -1,0 +1,14 @@
+C:\Users\vasile.vieru\source\repos\Classes\FileSystemAndStreams\obj\Debug\FileSystemAndStreams.csprojAssemblyReference.cache
+C:\Users\vasile.vieru\source\repos\Classes\FileSystemAndStreams\obj\Debug\FileSystemAndStreams.csproj.CoreCompileInputs.cache
+C:\Users\vasile.vieru\source\repos\Classes\FileSystemAndStreams\bin\Debug\FileSystemAndStreams.exe.config
+C:\Users\vasile.vieru\source\repos\Classes\FileSystemAndStreams\bin\Debug\FileSystemAndStreams.exe
+C:\Users\vasile.vieru\source\repos\Classes\FileSystemAndStreams\bin\Debug\FileSystemAndStreams.pdb
+C:\Users\vasile.vieru\source\repos\Classes\FileSystemAndStreams\obj\Debug\FileSystemAndStreams.exe
+C:\Users\vasile.vieru\source\repos\Classes\FileSystemAndStreams\obj\Debug\FileSystemAndStreams.pdb
+C:\Users\vasile.vieru\source\repos\Homework\FileSystemAndStreams\bin\Debug\FileSystemAndStreams.exe.config
+C:\Users\vasile.vieru\source\repos\Homework\FileSystemAndStreams\bin\Debug\FileSystemAndStreams.exe
+C:\Users\vasile.vieru\source\repos\Homework\FileSystemAndStreams\bin\Debug\FileSystemAndStreams.pdb
+C:\Users\vasile.vieru\source\repos\Homework\FileSystemAndStreams\obj\Debug\FileSystemAndStreams.csprojAssemblyReference.cache
+C:\Users\vasile.vieru\source\repos\Homework\FileSystemAndStreams\obj\Debug\FileSystemAndStreams.csproj.CoreCompileInputs.cache
+C:\Users\vasile.vieru\source\repos\Homework\FileSystemAndStreams\obj\Debug\FileSystemAndStreams.exe
+C:\Users\vasile.vieru\source\repos\Homework\FileSystemAndStreams\obj\Debug\FileSystemAndStreams.pdb
